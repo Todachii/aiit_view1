@@ -1,5 +1,8 @@
+工夫した箇所
 
-Sass使ってCSSは書き出しましたが、Sassのファイルを誤って消してしまいました。
+
+Sass使って複雑なCSSは書き出しましたが、Sassのファイルを誤って消してしまいました。
+
 
 JavaScriptで数字のリストを書き出していますが(index.html)、HTML自体はphantomjsでも書き出しました(view.html)。
 書き出しコマンド。
