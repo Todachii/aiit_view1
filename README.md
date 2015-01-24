@@ -9,4 +9,9 @@ phantomjs make_static.js http://0.0.0.0:9000/ > view.html
 http://havelog.ayumusato.com/develop/javascript/e526-make_static_html_using_phantomjs.html
 
 node.jsでwebサーバーを作って実行しました。
+※参考URL
 http://qiita.com/_shimizu/items/094c4beace9c7a36deb1
+
+
+こちらに公開しています。
+https://github.com/Todachii/aiit_view1
